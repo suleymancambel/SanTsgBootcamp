@@ -1,0 +1,426 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Api\\SanTsgBootcamp.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Api\\SanTsgBootcamp.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Api\\SanTsgBootcamp.Api.csproj",
+        "projectName": "SanTsgBootcamp.Api",
+        "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Api\\SanTsgBootcamp.Api.csproj",
+        "packagesPath": "C:\\Users\\suleyman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\suleyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Application\\SanTsgBootcamp.Application.csproj": {
+                "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Application\\SanTsgBootcamp.Application.csproj"
+              },
+              "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Data\\SanTsgBootcamp.Data.csproj": {
+                "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Data\\SanTsgBootcamp.Data.csproj"
+              },
+              "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj": {
+                "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj"
+              },
+              "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Shared\\SanTsgBootcamp.Shared.csproj": {
+                "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Shared\\SanTsgBootcamp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Application\\SanTsgBootcamp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Application\\SanTsgBootcamp.Application.csproj",
+        "projectName": "SanTsgBootcamp.Application",
+        "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Application\\SanTsgBootcamp.Application.csproj",
+        "packagesPath": "C:\\Users\\suleyman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\suleyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Shared\\SanTsgBootcamp.Shared.csproj": {
+                "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Shared\\SanTsgBootcamp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Data\\SanTsgBootcamp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Data\\SanTsgBootcamp.Data.csproj",
+        "projectName": "SanTsgBootcamp.Data",
+        "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Data\\SanTsgBootcamp.Data.csproj",
+        "packagesPath": "C:\\Users\\suleyman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\suleyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Application\\SanTsgBootcamp.Application.csproj": {
+                "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Application\\SanTsgBootcamp.Application.csproj"
+              },
+              "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj": {
+                "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj",
+        "projectName": "SanTsgBootcamp.Domain",
+        "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj",
+        "packagesPath": "C:\\Users\\suleyman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\suleyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Shared\\SanTsgBootcamp.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Shared\\SanTsgBootcamp.Shared.csproj",
+        "projectName": "SanTsgBootcamp.Shared",
+        "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Shared\\SanTsgBootcamp.Shared.csproj",
+        "packagesPath": "C:\\Users\\suleyman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\suleyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
