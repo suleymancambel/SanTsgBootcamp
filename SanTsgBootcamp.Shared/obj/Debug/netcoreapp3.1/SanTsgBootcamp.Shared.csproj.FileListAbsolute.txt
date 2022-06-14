@@ -8,3 +8,13 @@ C:\Users\suleyman\Desktop\apitest\denemeypacamsonhal\SanTsgBootcamp\SanTsgBootca
 C:\Users\suleyman\Desktop\apitest\denemeypacamsonhal\SanTsgBootcamp\SanTsgBootcamp.Shared\obj\Debug\netcoreapp3.1\SanTsgBootcamp.Shared.csproj.CoreCompileInputs.cache
 C:\Users\suleyman\Desktop\apitest\denemeypacamsonhal\SanTsgBootcamp\SanTsgBootcamp.Shared\obj\Debug\netcoreapp3.1\SanTsgBootcamp.Shared.dll
 C:\Users\suleyman\Desktop\apitest\denemeypacamsonhal\SanTsgBootcamp\SanTsgBootcamp.Shared\obj\Debug\netcoreapp3.1\SanTsgBootcamp.Shared.pdb
+C:\Users\suleyman\Desktop\SanTsgBootcamp\SanTsgBootcamp.Shared\bin\Debug\netcoreapp3.1\SanTsgBootcamp.Shared.deps.json
+C:\Users\suleyman\Desktop\SanTsgBootcamp\SanTsgBootcamp.Shared\bin\Debug\netcoreapp3.1\SanTsgBootcamp.Shared.dll
+C:\Users\suleyman\Desktop\SanTsgBootcamp\SanTsgBootcamp.Shared\bin\Debug\netcoreapp3.1\SanTsgBootcamp.Shared.pdb
+C:\Users\suleyman\Desktop\SanTsgBootcamp\SanTsgBootcamp.Shared\obj\Debug\netcoreapp3.1\SanTsgBootcamp.Shared.csproj.AssemblyReference.cache
+C:\Users\suleyman\Desktop\SanTsgBootcamp\SanTsgBootcamp.Shared\obj\Debug\netcoreapp3.1\SanTsgBootcamp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suleyman\Desktop\SanTsgBootcamp\SanTsgBootcamp.Shared\obj\Debug\netcoreapp3.1\SanTsgBootcamp.Shared.AssemblyInfoInputs.cache
+C:\Users\suleyman\Desktop\SanTsgBootcamp\SanTsgBootcamp.Shared\obj\Debug\netcoreapp3.1\SanTsgBootcamp.Shared.AssemblyInfo.cs
+C:\Users\suleyman\Desktop\SanTsgBootcamp\SanTsgBootcamp.Shared\obj\Debug\netcoreapp3.1\SanTsgBootcamp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\suleyman\Desktop\SanTsgBootcamp\SanTsgBootcamp.Shared\obj\Debug\netcoreapp3.1\SanTsgBootcamp.Shared.dll
+C:\Users\suleyman\Desktop\SanTsgBootcamp\SanTsgBootcamp.Shared\obj\Debug\netcoreapp3.1\SanTsgBootcamp.Shared.pdb

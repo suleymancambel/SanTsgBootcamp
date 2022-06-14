@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wT9pVvNfa6F2CQvnhwWCxuQJlj13+Kt6jKZKFaDLegVHXuyid2Lg+aSFHdpdmmm9dRwviKsEX6wn2iW8YFJweQ==",
+  "dgSpecHash": "HO9bSXVIfLoJx1+rzciwSCdzI+glc6tPZbm8KONeILi6FxAleqsiF0O0wHdvU0tcksafxqHuWRlhF6wMdC4HlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Web\\SanTsgBootcamp.Web.csproj",
+  "projectFilePath": "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Web\\SanTsgBootcamp.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suleyman\\.nuget\\packages\\mailkit\\3.3.0\\mailkit.3.3.0.nupkg.sha512",
     "C:\\Users\\suleyman\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -6748,11 +6748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Api\\SanTsgBootcamp.Api.csproj",
+      "projectUniqueName": "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Api\\SanTsgBootcamp.Api.csproj",
       "projectName": "SanTsgBootcamp.Api",
-      "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Api\\SanTsgBootcamp.Api.csproj",
+      "projectPath": "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Api\\SanTsgBootcamp.Api.csproj",
       "packagesPath": "C:\\Users\\suleyman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Api\\obj\\",
+      "outputPath": "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6773,17 +6773,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Application\\SanTsgBootcamp.Application.csproj": {
-              "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Application\\SanTsgBootcamp.Application.csproj"
+            "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Application\\SanTsgBootcamp.Application.csproj": {
+              "projectPath": "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Application\\SanTsgBootcamp.Application.csproj"
             },
-            "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Data\\SanTsgBootcamp.Data.csproj": {
-              "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Data\\SanTsgBootcamp.Data.csproj"
+            "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Data\\SanTsgBootcamp.Data.csproj": {
+              "projectPath": "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Data\\SanTsgBootcamp.Data.csproj"
             },
-            "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj": {
-              "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj"
+            "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj": {
+              "projectPath": "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj"
             },
-            "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Shared\\SanTsgBootcamp.Shared.csproj": {
-              "projectPath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Shared\\SanTsgBootcamp.Shared.csproj"
+            "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Shared\\SanTsgBootcamp.Shared.csproj": {
+              "projectPath": "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Shared\\SanTsgBootcamp.Shared.csproj"
             }
           }
         }

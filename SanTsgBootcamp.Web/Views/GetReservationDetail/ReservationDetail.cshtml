@@ -45,7 +45,8 @@
      <th>Reservation Number</th>
     <th >Name</th>
     <th >Surname</th> 
-    <th >HotelName</th>
+    <th >Hotel Name</th>
+    <th >City</th>
     <th >Price</th>
     <th >Currency</th>
   </tr>
@@ -58,6 +59,7 @@
     <td>@Model.reservationData.travellers[0].surname</td>
     
     <td>@Model.reservationData.services[0].name</td>
+    <td>@Model.reservationData.reservationInfo.arrivalCity.name</td>
     
     <td>@Model.reservationData.reservationInfo.priceToPay.amount</td>
     <td>@Model.reservationData.reservationInfo.priceToPay.currency</td>

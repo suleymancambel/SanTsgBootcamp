@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pLFtPYfT5WJtpDSmJejDOZ3SDwck4b2Yq9iXBrKhNn6/toCa1Ync6nNA9g3tyOIVF0AP8ufcazJas8IozvFhaQ==",
+  "dgSpecHash": "3KrGQ1aEcxD32gsvanvDT4v+RJQBz9AGiGfshXz5pEZIMw/Fjx7eN4Zz6Zg2gHIccPKbjtr0oElctVs/lpNeNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suleyman\\Desktop\\apitest\\denemeypacamsonhal\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suleyman\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\suleyman\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
