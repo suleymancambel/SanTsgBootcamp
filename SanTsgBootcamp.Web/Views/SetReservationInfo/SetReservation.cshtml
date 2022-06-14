@@ -51,7 +51,10 @@
         
         <p>Reservation Successful</p>
       </div>
-      <button><a  asp-action="Commit" asp-controller="CommitTransaction" asp-route-transactionId="@Model.transactionId"> Devam Et </a></button>
+      <div>
+  <button><a  asp-action="Commit" asp-controller="CommitTransaction" asp-route-transactionId="@Model.transactionId"> Continue </a></button>
+      </div>
+     
     </body>
 </html>
 

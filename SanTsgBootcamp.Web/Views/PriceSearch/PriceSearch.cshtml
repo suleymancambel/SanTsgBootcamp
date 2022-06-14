@@ -57,6 +57,7 @@
 			<th><h5>Hotel Name</h5></th>
 			<th><h5>Hotel Address</h5></th>
 			<th><h5>Hotel Price</h5></th>
+			<th><h5>Currency</h5></th>
 			
 
 			
@@ -70,6 +71,7 @@
 	<td><a asp-action="BeginTransaction" asp-controller="BeginTransaction" asp-route-offerid="@item.offers[0].offerId">@item.name</a></td>
 	<td>@item.address</td>
 	<td>@item.offers[0].price.amount</td>
+	<td>@item.offers[0].price.currency</td>
 	
 	
 

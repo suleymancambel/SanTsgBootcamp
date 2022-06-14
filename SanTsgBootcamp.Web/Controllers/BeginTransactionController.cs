@@ -25,7 +25,7 @@ namespace SanTsgBootcamp.Web.Controllers
                 string hotelid = offerid.ToString();
                 var modelbegin = new Rootobject()
                 {
-                    //arrivalLocations = new Arrivallocation[] { new Arrivallocation() { id = hotelid } },
+                    
                     offerIds = new string[] { hotelid },
                     currency = "EUR",
                     culture = "en-US",
@@ -57,9 +57,7 @@ namespace SanTsgBootcamp.Web.Controllers
 
 
                     BeginTransactionModel.Rootobject model2 = JsonConvert.DeserializeObject<BeginTransactionModel.Rootobject>(readprice.Result);
-                    //List<pricesearchmodel.Rootobject> list = model2.body.hotels;
-
-                    //List<pricesearchmodel.Rootobject> listhotel = list.Where(item => item.city.name.Equals(city) && item.hotel != null).ToList();
+                   
                   
                     return View(model2.body);
 

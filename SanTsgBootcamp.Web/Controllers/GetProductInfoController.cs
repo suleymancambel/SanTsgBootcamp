@@ -60,9 +60,7 @@ namespace SanTsgBootcamp.Web.Controllers
 
 
 
-            //List<pricesearchmodel.Rootobject> list = model2.body.hotels;
-
-            //List<pricesearchmodel.Rootobject> listhotel = list.Where(item => item.city.name.Equals(city) && item.hotel != null).ToList();
+          
 
 
 

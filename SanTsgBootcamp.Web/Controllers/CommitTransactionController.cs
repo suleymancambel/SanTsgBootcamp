@@ -54,9 +54,7 @@ namespace SanTsgBootcamp.Web.Controllers
 
 
         CommitModel.Rootobject model2 = JsonConvert.DeserializeObject<CommitModel.Rootobject>(readprice.Result);
-                //List<pricesearchmodel.Rootobject> list = model2.body.hotels;
-
-                //List<pricesearchmodel.Rootobject> listhotel = list.Where(item => item.city.name.Equals(city) && item.hotel != null).ToList();
+               
 
                 return View(model2.body);
 

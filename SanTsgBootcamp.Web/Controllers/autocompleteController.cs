@@ -25,7 +25,7 @@ namespace SanTsgBootcamp.Web.Controllers
             return View();
         }
         
-       //
+       //autoapi
         public async Task<IActionResult>  HotelList(string id)
         {
 

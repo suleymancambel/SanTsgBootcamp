@@ -137,55 +137,7 @@ namespace SanTsgBootcamp.Web.Controllers
         {
 
             string tranid = transactionId.ToString();
-            //var modelset = new Rootobject()
-            //{
-
-            //    //arrivalLocations = new Arrivallocation[] { new Arrivallocation() { id = hotelid } },
-            //    //roomCriteria = new Roomcriteria[] { new Roomcriteria() { adult = 1, childAges = new int[] { 2 } } },
-            //    transactionId = transactionId,
-            //    travellers = new Traveller[] { new Traveller() {
-            //        travellerId = "1",
-            //        type = 1,
-            //        title = 1,
-            //        passengerType = 1,
-            //        name = "süleyman",
-            //        surname = "cambel",
-            //        isLeader = true,
-            //        birthDate = new DateTime(1998 - 04 - 05),
-            //        nationality = new Nationality(),
-            //        identityNumber = {},
-            //        passportInfo = new Passportinfo1(),
-            //        address = new Address1(),
-            //        orderNumber = 1,
-            //        documents = new object[] { },
-            //        insertFields = new object[] { },
-            //        status = 0,
-            //        destinationAddress = { },
-
-
-
-
-            //    }
-
-            //    },
-
-
-
-
-            //    customerInfo = new Customerinfo(),
-            //    reservationNote = "note",
-            //    agencyReservationNumber = "agency number"
-
-
-
-
-
-
-
-
-
-            //};
-
+           
 
             var modelset = new Rootobject()
             {
@@ -285,15 +237,13 @@ namespace SanTsgBootcamp.Web.Controllers
 
 
                 SetReservationInfoModel.Rootobject model2 = JsonConvert.DeserializeObject<SetReservationInfoModel.Rootobject>(readprice.Result);
-                //List<pricesearchmodel.Rootobject> list = model2.body.hotels;
-
-                //List<pricesearchmodel.Rootobject> listhotel = list.Where(item => item.city.name.Equals(city) && item.hotel != null).ToList();
+              
 
                 return View(model2.body);
 
 
             }
-            ////commityapıalcak transactionId geliyor comite post et gitsin 03:05
+            ////commityapılacak transactionId geliyor comite post et gitsin 03:05
            
             return View();
         }
