@@ -61,7 +61,7 @@ namespace SanTsgBootcamp.Web.Controllers
 
             Body newBody = resObj.body;
             
-            ViewBag.jsonBody = newBody.items;
+            //ViewBag.jsonBody = newBody.items;
 
 
             if (response.IsSuccessStatusCode)

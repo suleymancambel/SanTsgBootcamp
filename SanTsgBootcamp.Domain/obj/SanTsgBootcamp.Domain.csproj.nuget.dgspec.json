@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj": {}
+    "C:\\Users\\suleyman\\Source\\Repos\\suleymancambel\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj": {
+    "C:\\Users\\suleyman\\Source\\Repos\\suleymancambel\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\suleyman\\Source\\Repos\\suleymancambel\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj",
         "projectName": "SanTsgBootcamp.Domain",
-        "projectPath": "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj",
+        "projectPath": "C:\\Users\\suleyman\\Source\\Repos\\suleymancambel\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\SanTsgBootcamp.Domain.csproj",
         "packagesPath": "C:\\Users\\suleyman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\suleyman\\Source\\Repos\\suleymancambel\\SanTsgBootcamp\\SanTsgBootcamp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

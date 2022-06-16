@@ -49,7 +49,8 @@
 
 
 <input  type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for City..">
-
+<p> Sample Provinces
+</p>
 <table id="myTable">
  
 	<thead>
@@ -59,15 +60,33 @@
 		</tr>
 	</thead>
 	<tbody>
-		@foreach (var item in Model)
-		{
+		
 	<tr>
 	<td>
-         <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="@item.CityName">@item.CityName</a></td>
+
+        @* <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="@item.CityName">@item.CityName</a></td>*@
 				
 	</tr>
+    <td>
+       
+         <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="Antalya">Antalya</a></td>
 
-		}
+          <td>
+
+         <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="Istabul">İstanbul</a></td>
+           <td>
+
+         <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="Ankara">Ankara</a></td>
+           <td>
+
+         <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="Mersin">Mersin</a></td>
+           <td>
+
+         <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="Izmir">İzmir</a></td>
+				
+	
+
+		
 	</tbody>
 </table>
 

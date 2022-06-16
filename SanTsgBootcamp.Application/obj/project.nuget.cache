@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wci59TU2iYfe/mq21y+MePtnsHKGmIswpLiOJmeBITWj9RNHgDPgMbCnsghzqVM0fLYlnGyW26oXbzPluQgYHg==",
+  "dgSpecHash": "yjj6Mt2e0RmsX9MJ2OZOpVpA1dZ4MbnFeHfKuyG1VgglUM6IK65ITR7rHoYq9pcZLZMThGia909MWdm2+sAyJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\suleyman\\Desktop\\SanTsgBootcamp\\SanTsgBootcamp.Application\\SanTsgBootcamp.Application.csproj",
+  "projectFilePath": "C:\\Users\\suleyman\\Source\\Repos\\suleymancambel\\SanTsgBootcamp\\SanTsgBootcamp.Application\\SanTsgBootcamp.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\suleyman\\.nuget\\packages\\mailkit\\3.3.0\\mailkit.3.3.0.nupkg.sha512",
     "C:\\Users\\suleyman\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
