@@ -48,7 +48,7 @@
 </style>
 
 
-<input  type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for City..">
+@*<input  type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for City..">*@
 <p> Sample Provinces
 </p>
 <table id="myTable">
@@ -63,17 +63,21 @@
 		
 	<tr>
 	<td>
-
+        @*şehir listesi db den geldiği için kolay kullanım amaçlı manuel olarak en çok otel olan şehirler eklenmiştir*@
         @* <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="@item.CityName">@item.CityName</a></td>*@
 				
 	</tr>
+
+     <td>
+       
+         <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="Mugla">Muğla</a></td>
     <td>
        
          <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="Antalya">Antalya</a></td>
 
           <td>
 
-         <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="Istabul">İstanbul</a></td>
+         <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="Istanbul">İstanbul</a></td>
            <td>
 
          <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="Ankara">Ankara</a></td>
@@ -83,6 +87,8 @@
            <td>
 
          <a asp-action="HotelList" asp-controller="autocomplete" asp-route-id="Izmir">İzmir</a></td>
+
+
 				
 	
 
